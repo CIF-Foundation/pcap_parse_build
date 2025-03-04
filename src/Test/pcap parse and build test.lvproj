@@ -23,9 +23,6 @@
 				<Item Name="Errors_CIF_U.lvlib" Type="Library" URL="/&lt;vilib&gt;/CIF Foundation/CIF Utilities/Errors/Errors_CIF_U.lvlib"/>
 				<Item Name="Time_CIF_U.lvlib" Type="Library" URL="/&lt;vilib&gt;/CIF Foundation/CIF Utilities/Time/Time_CIF_U.lvlib"/>
 			</Item>
-			<Item Name="CAN Interface Mode.ctl" Type="VI" URL="../../../../Future CAN File Stuff/CAN Interface Mode.ctl"/>
-			<Item Name="Header Cluster to XNET CAN.vi" Type="VI" URL="../../../../Future CAN File Stuff/Header Cluster to XNET CAN.vi"/>
-			<Item Name="XNET CAN to Header Cluster.vi" Type="VI" URL="../../../../Future CAN File Stuff/XNET CAN to Header Cluster.vi"/>
 		</Item>
 		<Item Name="Build Specifications" Type="Build"/>
 	</Item>
