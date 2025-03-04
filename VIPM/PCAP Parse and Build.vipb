@@ -1,7 +1,7 @@
-<VI_Package_Builder_Settings Version="2020.1" Created_Date="2025-02-08 07:45:01" Modified_Date="2025-03-03 19:21:57" Creator="toddw" Comments="" ID="3a165c9cada4600e0d6403e5353eb4ec">
+<VI_Package_Builder_Settings Version="2020.1" Created_Date="2025-02-08 07:45:01" Modified_Date="2025-03-04 08:20:38" Creator="toddw" Comments="" ID="d14bf5b34cb2bc14392bf727afc05c97">
   <Library_General_Settings>
     <Package_File_Name>CIF_Foundation_lib_PCAP_Parse_Build</Package_File_Name>
-    <Library_Version>1.2.0.5</Library_Version>
+    <Library_Version>1.2.0.6</Library_Version>
     <Auto_Increment_Version>false</Auto_Increment_Version>
     <Library_Source_Folder>..\src</Library_Source_Folder>
     <Library_Output_Folder>..\..\builds\VIPM</Library_Output_Folder>
@@ -32,7 +32,7 @@
       <Copyright/>
       <Packager>DOME Automation</Packager>
       <URL/>
-      <Release_Notes>Added support for I2C</Release_Notes>
+      <Release_Notes>Renamed class to align with CIF naming model</Release_Notes>
     </Description>
     <Destinations>
       <Toolkit_VIs>
@@ -343,7 +343,7 @@
         <Path>..\src\I2C Linux</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>29A4AF891F1B59D7AEFCFB9E02D19EC2</GUID>
+      <GUID>A49C8BEC9A42910B09BC8762B54FDCB8</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -462,7 +462,7 @@
         <Path>..\src\Data Accessors\Read Endian Match.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>AF6ED177A51ECB91AB7560C6C80398A6</GUID>
+      <GUID>20EFB56768520B9820138C00ECE0F943</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -539,7 +539,7 @@
         <Path>..\src\Example\Parse Generic Socket CAN.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>A4E2EE2A67145A26A66B77F3B3751118</GUID>
+      <GUID>DAB3FB8AAE60AABAF89C0A676597FD9E</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -616,7 +616,7 @@
         <Path>..\src\Example\Build Generic I2C Linux.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>132361554D3755FA252D7C4B6283A025</GUID>
+      <GUID>7181B522204C937060E5E576821F68C9</GUID>
     </Functions_Palette_Data>
   </Library_Palette_Definition>
 </VI_Package_Builder_Settings>
