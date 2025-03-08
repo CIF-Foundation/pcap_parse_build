@@ -15,7 +15,6 @@
 			<Item Name="CAN Example.vi" Type="VI" URL="../../../Example/CAN Example.vi"/>
 			<Item Name="I2C Example.vi" Type="VI" URL="../../../Example/I2C Example.vi"/>
 		</Item>
-		<Item Name="pcap Parse and Build.lvclass" Type="LVClass" URL="../../pcap Parse and Build.lvclass"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="Assert Error Cluster Type.vim" Type="VI" URL="/&lt;vilib&gt;/Utility/TypeAssert/Assert Error Cluster Type.vim"/>
@@ -23,6 +22,7 @@
 				<Item Name="Errors_CIF_U.lvlib" Type="Library" URL="/&lt;vilib&gt;/CIF Foundation/CIF Utilities/Errors/Errors_CIF_U.lvlib"/>
 				<Item Name="Time_CIF_U.lvlib" Type="Library" URL="/&lt;vilib&gt;/CIF Foundation/CIF Utilities/Time/Time_CIF_U.lvlib"/>
 			</Item>
+			<Item Name="pcap_Parse_Build_CIF.lvclass" Type="LVClass" URL="../../pcap_Parse_Build_CIF.lvclass"/>
 		</Item>
 		<Item Name="Build Specifications" Type="Build"/>
 	</Item>
