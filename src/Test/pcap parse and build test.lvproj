@@ -18,8 +18,11 @@
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="Assert Error Cluster Type.vim" Type="VI" URL="/&lt;vilib&gt;/Utility/TypeAssert/Assert Error Cluster Type.vim"/>
+				<Item Name="Assert Fixed-Point Numeric Type.vim" Type="VI" URL="/&lt;vilib&gt;/Utility/TypeAssert/Assert Fixed-Point Numeric Type.vim"/>
 				<Item Name="DataTypes_CIF_U.lvlib" Type="Library" URL="/&lt;vilib&gt;/CIF Foundation/CIF Utilities/DataTypes/DataTypes_CIF_U.lvlib"/>
 				<Item Name="Errors_CIF_U.lvlib" Type="Library" URL="/&lt;vilib&gt;/CIF Foundation/CIF Utilities/Errors/Errors_CIF_U.lvlib"/>
+				<Item Name="Flatten U32.vi" Type="VI" URL="/&lt;vilib&gt;/CIF Foundation/CIF Utilities/DataTypes/Flatten U32.vi"/>
+				<Item Name="Unflatten U32.vi" Type="VI" URL="/&lt;vilib&gt;/CIF Foundation/CIF Utilities/DataTypes/Unflatten U32.vi"/>
 			</Item>
 			<Item Name="pcap_Parse_Build_CIF.lvclass" Type="LVClass" URL="../../pcap_Parse_Build_CIF.lvclass"/>
 		</Item>
