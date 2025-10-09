@@ -1,7 +1,7 @@
-<VI_Package_Builder_Settings Version="2020.1" Created_Date="2025-02-08 07:45:01" Modified_Date="2025-07-11 18:28:35" Creator="toddw" Comments="" ID="30175164b8bfbaf59192af1c4176e883">
+<VI_Package_Builder_Settings Version="2020.1" Created_Date="2025-02-08 07:45:01" Modified_Date="2025-10-09 08:43:13" Creator="toddw" Comments="" ID="582a970ed8ea9ce7980a47e30e63db63">
   <Library_General_Settings>
     <Package_File_Name>CIF_Foundation_lib_PCAP_Parse_Build</Package_File_Name>
-    <Library_Version>1.4.2.4</Library_Version>
+    <Library_Version>1.4.3.5</Library_Version>
     <Auto_Increment_Version>false</Auto_Increment_Version>
     <Library_Source_Folder>..\src</Library_Source_Folder>
     <Library_Output_Folder>..\..\builds\VIPM</Library_Output_Folder>
@@ -32,7 +32,7 @@
       <Copyright/>
       <Packager>DOME Automation</Packager>
       <URL/>
-      <Release_Notes>Fixed corrupt enum</Release_Notes>
+      <Release_Notes>Add advanced feature to override OS endian setting.  </Release_Notes>
     </Description>
     <Destinations>
       <Toolkit_VIs>
@@ -343,7 +343,7 @@
         <Path>..\src\I2C Linux</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>B7461A8425E8EDA5CF43749D0FFE2EA8</GUID>
+      <GUID>9935E88599B75AAE9D63AB1A643C7165</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -462,7 +462,7 @@
         <Path>..\src\Data Accessors\Read Endian Match.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>60B47E860AB1A5D495EB117BE9FB4076</GUID>
+      <GUID>73B848B66C9979FFCAB2BA29F80F27D4</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -539,7 +539,7 @@
         <Path>..\src\Example\Parse Next Socket CAN.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>11F0F3BEAF1CDC70040232937B1BC4B4</GUID>
+      <GUID>D87A64B3B0B20F0B78C36B0537D42C0C</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -616,7 +616,7 @@
         <Path>..\src\Example\Parse Next I2C Linux.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>2C0B7668535AEBA50F4B961DF9EE2F30</GUID>
+      <GUID>17C12C7303EC4BF5276831FFA9A96CED</GUID>
     </Functions_Palette_Data>
   </Library_Palette_Definition>
 </VI_Package_Builder_Settings>
