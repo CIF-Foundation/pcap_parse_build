@@ -22,6 +22,7 @@
 				<Item Name="DataTypes_CIF_U.lvlib" Type="Library" URL="/&lt;vilib&gt;/CIF Foundation/CIF Utilities/DataTypes/DataTypes_CIF_U.lvlib"/>
 				<Item Name="Errors_CIF_U.lvlib" Type="Library" URL="/&lt;vilib&gt;/CIF Foundation/CIF Utilities/Errors/Errors_CIF_U.lvlib"/>
 				<Item Name="Flatten U32.vi" Type="VI" URL="/&lt;vilib&gt;/CIF Foundation/CIF Utilities/DataTypes/Flatten U32.vi"/>
+				<Item Name="Time_CIF_U.lvlib" Type="Library" URL="/&lt;vilib&gt;/CIF Foundation/CIF Utilities/Time/Time_CIF_U.lvlib"/>
 				<Item Name="Unflatten U32.vi" Type="VI" URL="/&lt;vilib&gt;/CIF Foundation/CIF Utilities/DataTypes/Unflatten U32.vi"/>
 			</Item>
 			<Item Name="pcap_Parse_Build_CIF.lvclass" Type="LVClass" URL="../../pcap_Parse_Build_CIF.lvclass"/>
