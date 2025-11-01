@@ -1,7 +1,7 @@
-<VI_Package_Builder_Settings Version="2020.1" Created_Date="2025-02-08 07:45:01" Modified_Date="2025-10-26 16:34:48" Creator="toddw" Comments="" ID="26fa9d447c9854db08fa62cde09e792d">
+<VI_Package_Builder_Settings Version="2020.1" Created_Date="2025-02-08 07:45:01" Modified_Date="2025-11-01 08:03:11" Creator="toddw" Comments="" ID="d2d28eb32625dbcb2624ba62f63b1ce1">
   <Library_General_Settings>
     <Package_File_Name>CIF_Foundation_lib_PCAP_Parse_Build</Package_File_Name>
-    <Library_Version>1.6.0.4</Library_Version>
+    <Library_Version>1.7.0.5</Library_Version>
     <Auto_Increment_Version>false</Auto_Increment_Version>
     <Library_Source_Folder>..\src</Library_Source_Folder>
     <Library_Output_Folder>..\..\builds\VIPM</Library_Output_Folder>
@@ -32,7 +32,7 @@
       <Copyright/>
       <Packager>DOME Automation</Packager>
       <URL/>
-      <Release_Notes>Added functions to convert to system time or external time.  </Release_Notes>
+      <Release_Notes>Added offset array output to get all timestamp function</Release_Notes>
     </Description>
     <Destinations>
       <Toolkit_VIs>
@@ -399,7 +399,7 @@
         <Path>..\src\Utilities\Update All Timestamps to System Clock.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>AE7208296AC97908D4B6F288544AC74E</GUID>
+      <GUID>CFA9628D024A0D74730314A4C34F1308</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -518,7 +518,7 @@
         <Path>..\src\Data Accessors\Read Endian Match.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>84CCE1E2DE34674A52DCF31C511556F3</GUID>
+      <GUID>05192E278FE1C6E2685E8C637CE9C9AA</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -595,7 +595,7 @@
         <Path>..\src\Example\Parse Next Socket CAN.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>DE428817DD0B696199CB2C87DCCB5912</GUID>
+      <GUID>835EBDA8A92C731F18EC484DF5AA8EAE</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -672,7 +672,7 @@
         <Path>..\src\Example\Parse Next I2C Linux.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>EAE4B9E9030724A0EE2473B940CB102B</GUID>
+      <GUID>AEA616C51880F9F5DA30676EB40B023A</GUID>
     </Functions_Palette_Data>
   </Library_Palette_Definition>
 </VI_Package_Builder_Settings>
