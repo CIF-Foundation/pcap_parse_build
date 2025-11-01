@@ -14,12 +14,15 @@
 		<Item Name="Test" Type="Folder">
 			<Item Name="CAN Example.vi" Type="VI" URL="../../../Example/CAN Example.vi"/>
 			<Item Name="I2C Example.vi" Type="VI" URL="../../../Example/I2C Example.vi"/>
+			<Item Name="Test Chunking.vi" Type="VI" URL="../Test Chunking.vi"/>
 		</Item>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="Assert Error Cluster Type.vim" Type="VI" URL="/&lt;vilib&gt;/Utility/TypeAssert/Assert Error Cluster Type.vim"/>
 				<Item Name="Assert Fixed-Point Numeric Type.vim" Type="VI" URL="/&lt;vilib&gt;/Utility/TypeAssert/Assert Fixed-Point Numeric Type.vim"/>
 				<Item Name="DataTypes_CIF_U.lvlib" Type="Library" URL="/&lt;vilib&gt;/CIF Foundation/CIF Utilities/DataTypes/DataTypes_CIF_U.lvlib"/>
+				<Item Name="Detect Endian.vi" Type="VI" URL="/&lt;vilib&gt;/CIF Foundation/CIF Utilities/DataTypes/Detect Endian.vi"/>
+				<Item Name="Endian.ctl" Type="VI" URL="/&lt;vilib&gt;/CIF Foundation/CIF Utilities/DataTypes/Endian.ctl"/>
 				<Item Name="Errors_CIF_U.lvlib" Type="Library" URL="/&lt;vilib&gt;/CIF Foundation/CIF Utilities/Errors/Errors_CIF_U.lvlib"/>
 				<Item Name="Flatten U32.vi" Type="VI" URL="/&lt;vilib&gt;/CIF Foundation/CIF Utilities/DataTypes/Flatten U32.vi"/>
 				<Item Name="Time_CIF_U.lvlib" Type="Library" URL="/&lt;vilib&gt;/CIF Foundation/CIF Utilities/Time/Time_CIF_U.lvlib"/>
