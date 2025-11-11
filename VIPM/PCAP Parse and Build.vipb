@@ -1,7 +1,7 @@
-<VI_Package_Builder_Settings Version="2020.1" Created_Date="2025-02-08 07:45:01" Modified_Date="2025-11-05 09:47:47" Creator="toddw" Comments="" ID="abede2020e8a705bdc45efcf74f20075">
+<VI_Package_Builder_Settings Version="2020.1" Created_Date="2025-02-08 07:45:01" Modified_Date="2025-11-11 12:39:16" Creator="toddw" Comments="" ID="cf9d73657f424dcb6556ae549316c5ba">
   <Library_General_Settings>
     <Package_File_Name>CIF_Foundation_lib_PCAP_Parse_Build</Package_File_Name>
-    <Library_Version>1.9.0.7</Library_Version>
+    <Library_Version>1.10.0.8</Library_Version>
     <Auto_Increment_Version>false</Auto_Increment_Version>
     <Library_Source_Folder>..\src</Library_Source_Folder>
     <Library_Output_Folder>..\..\builds\VIPM</Library_Output_Folder>
@@ -32,7 +32,7 @@
       <Copyright/>
       <Packager>DOME Automation</Packager>
       <URL/>
-      <Release_Notes>Added support for chunks to return first timestamp</Release_Notes>
+      <Release_Notes>Added Record count output on the timestamp update utilities</Release_Notes>
     </Description>
     <Destinations>
       <Toolkit_VIs>
@@ -413,7 +413,7 @@
         <Path>..\src\Utilities\Chunk by Time.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>F5CF8A1385F9F3F53BF797A7D47116B2</GUID>
+      <GUID>B4CFF94FC43EB2FAF872DDF28F1B505F</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -532,7 +532,7 @@
         <Path>..\src\Data Accessors\Read Endian Match.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>A3A0A4B3A29B5E5D2BE5D59216982D0F</GUID>
+      <GUID>75AE358E57F2488FF6F84F352A2E2FE8</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -609,7 +609,7 @@
         <Path>..\src\Example\Parse Next Socket CAN.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>728DDBAF4AA92D983A52568BA0A4EAC7</GUID>
+      <GUID>61B489FA72948907CF3F00EDB433DBD5</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -686,7 +686,7 @@
         <Path>..\src\Example\Parse Next I2C Linux.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>693F3083E5E3F41109095C0FD66C3162</GUID>
+      <GUID>E0C2FDE193CA02692F0B5BD48DA67B5A</GUID>
     </Functions_Palette_Data>
   </Library_Palette_Definition>
 </VI_Package_Builder_Settings>
