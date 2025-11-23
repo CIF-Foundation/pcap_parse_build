@@ -15,6 +15,7 @@
 			<Item Name="CAN Example.vi" Type="VI" URL="../../../Example/CAN Example.vi"/>
 			<Item Name="I2C Example.vi" Type="VI" URL="../../../Example/I2C Example.vi"/>
 			<Item Name="Test Chunking.vi" Type="VI" URL="../Test Chunking.vi"/>
+			<Item Name="Test Get Count and Get End Offset.vi" Type="VI" URL="../Test Get Count and Get End Offset.vi"/>
 		</Item>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
