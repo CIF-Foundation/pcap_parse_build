@@ -1,5 +1,8 @@
 ﻿<?xml version='1.0' encoding='UTF-8'?>
 <LVClass LVVersion="21008000">
+	<Property Name="NI.Lib.Description" Type="Str">Utilities for parsing and creating PCAP-format byte buffers. File and hardware access are not included.
+
+Copyright (C) 2025-2026 CIF Foundation. Licensed under the Apache License, Version 2.0.</Property>
 	<Property Name="NI.Lib.Icon" Type="Bin">)1#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!*&amp;!!!*Q(C=\&gt;1R=BJ"%)8B*Z=$J^T!R25[=$HH#FSBLU!I*;\C#HU&amp;!E&gt;W2/!,0+@/O!+BKJS!@W&lt;&lt;AL*ME6B6#L4,,0"GJO&gt;D&gt;VFJ&lt;/_ENTJ?WTY`O@XOJ^QY^G([?NF`?GF[\\@(]X5?_:@ZZS\VZ$`\T[5@^@`&lt;@WX4E^NL`WP`S_[`@HP@8@]40/]GX1QJT&lt;3C*3X'LTO;X/1G.\H*46\E26\E26\E2:\E3:\E3:\E32\E12\E12\E14ZW=J',8/3=&amp;&lt;/Y7=A5.18-9#AS"_-R(O-R(L\+?)T(?)T(?"ACYT%?YT%?YW';D-&gt;YD-&gt;YD)&gt;31_+RE_-R(MKL]"3?QF.Y#A^,KP!5A'+RIH"2");+TO*$Y3E]B9?0+DS&amp;J`!5HM*$NQJ0Y3E]B;@Q-'7=F2K;UU[/BT*+0)EH]33?R%.J*:\%EXA34_*B/37?R*-AEA74YB#54%I'*&amp;]34_,B49EH]33?R*.Y["J8+-?:/7F//TG?Q".Y!E`A#4S55/!*0)%H]!1?SCLQ"*\!%XA#$UMJ]!3?Q".!AE6:8E'R9')Q+!A#$[^RN]3Y3D5E-@&lt;_;UYXKPI'6.^9[BN'@3/I,\$[QKEPC0J%KU_A_M3I@\$[B[C"[I86"&gt;5$N??YIWVJ'^K;NK)N;1P;H$9\4@X0!`@\P8;\H&lt;&lt;&lt;L4;&lt;D&gt;&lt;LN6;LF:&lt;,J2;,B?&lt;TO7;TW=04[DX\N.V=0J=/(XV\_0(^W_($F^P$`;@DY?@8BW@((7/@IUX0J:@Q&lt;.1&lt;(3]?]ZSD8S3YHYQ!!!!!</Property>
 	<Property Name="NI.Lib.SourceVersion" Type="Int">553680896</Property>
 	<Property Name="NI.Lib.Version" Type="Str">1.0.0.0</Property>
