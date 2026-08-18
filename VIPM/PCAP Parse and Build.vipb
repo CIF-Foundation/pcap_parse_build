@@ -1,7 +1,7 @@
-<VI_Package_Builder_Settings Version="2020.1" Created_Date="2025-02-08 07:45:01" Modified_Date="2026-06-30 08:15:49" Creator="toddw" Comments="" ID="2b7cc75c8fd1999c7d1d9c57a72106d2">
+<VI_Package_Builder_Settings Version="2020.1" Created_Date="2025-02-08 07:45:01" Modified_Date="2026-08-16 18:46:45" Creator="toddw" Comments="" ID="f8c137d344d5418456288d3815672a77">
   <Library_General_Settings>
     <Package_File_Name>CIF_Foundation_lib_PCAP_Parse_Build</Package_File_Name>
-    <Library_Version>1.11.0.11</Library_Version>
+    <Library_Version>1.11.1.2</Library_Version>
     <Auto_Increment_Version>false</Auto_Increment_Version>
     <Library_Source_Folder>..\src</Library_Source_Folder>
     <Library_Output_Folder>..\..\builds\VIPM</Library_Output_Folder>
@@ -34,7 +34,7 @@ Licensed under the Apache License, Version 2.0. See the repository LICENSE file 
       <Copyright>Copyright 2025-2026 CIF Foundation. Licensed under the Apache License, Version 2.0.</Copyright>
       <Packager>DOME Automation</Packager>
       <URL/>
-      <Release_Notes>Updated license information.</Release_Notes>
+      <Release_Notes>Memory Optimization.</Release_Notes>
     </Description>
     <Destinations>
       <Toolkit_VIs>
@@ -331,7 +331,7 @@ Licensed under the Apache License, Version 2.0. See the repository LICENSE file 
         <Path>..\src\Utilities</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>08E0C5951B2B01722832BDECE8738F45</GUID>
+      <GUID>FC6B751BBC9BDB053C2A0390285182C1</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -450,7 +450,7 @@ Licensed under the Apache License, Version 2.0. See the repository LICENSE file 
         <Path>..\src\Data Accessors\Read Endian Match.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>78A8D31C5380EFA87770A791378E2249</GUID>
+      <GUID>C7A4098B8976475F69355B55B0203E14</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -527,7 +527,7 @@ Licensed under the Apache License, Version 2.0. See the repository LICENSE file 
         <Path>..\src\Example\Parse Next Socket CAN.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>F501189D81ABC673DA3B814EA300C39B</GUID>
+      <GUID>0996C352915EA18FF49BA6E537716B98</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -604,7 +604,7 @@ Licensed under the Apache License, Version 2.0. See the repository LICENSE file 
         <Path>..\src\Example\Parse Next I2C Linux.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>924F20D81A70C1FC4CACA2C5C15FDAD4</GUID>
+      <GUID>6DAF219898CE2AEF346122A00D884828</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -793,7 +793,7 @@ Licensed under the Apache License, Version 2.0. See the repository LICENSE file 
         <Path>..\src\Utilities\Update All Timestamps to System Clock.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>249BAFCD1DD8AD2F733C6E9F0B02EE60</GUID>
+      <GUID>B1BB504069710029DACBCE2F6B78D299</GUID>
     </Functions_Palette_Data>
   </Library_Palette_Definition>
 </VI_Package_Builder_Settings>
